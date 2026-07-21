@@ -2,7 +2,7 @@
 
 Static, bilingual support and privacy pages prepared for App Store Connect.
 
-Proposed public URLs after publishing to a dedicated GitHub Pages repository:
+Public URLs:
 
 - Support URL: `https://bushiyaocheng.github.io/racing-box-support/support.html`
 - Privacy Policy URL: `https://bushiyaocheng.github.io/racing-box-support/privacy.html`
